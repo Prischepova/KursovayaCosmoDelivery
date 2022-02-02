@@ -1,4 +1,3 @@
-![](https://github.com/Prischepova/KursovayaCosmoDelivery/raw/Images/path/Logo.png) 
 # KursovayaCosmoDelivery
 **Prischepova Kseniia**
 ***
