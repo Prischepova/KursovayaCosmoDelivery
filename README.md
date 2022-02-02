@@ -1,6 +1,7 @@
 # KursovayaCosmoDelivery
-![alt text](https://github.com/Prischepova/KursovayaCosmoDelivery/blob/Images/Logo.svg?raw=true) 
-**Prischepova Kseniia**
+![alt text](https://github.com/Prischepova/KursovayaCosmoDelivery/blob/Images/Logo.svg?raw=true)
+***
+Prischepova Kseniia
 ***
 Добавьте немного блеска
 Если хотите, чтобы ваш README выделялся и имел привлекательный вид —
