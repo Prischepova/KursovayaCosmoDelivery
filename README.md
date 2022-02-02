@@ -1,3 +1,4 @@
+![alt text](http://url/to/Logo.png)
 # KursovayaCosmoDelivery
 **Prischepova Kseniia**
 ***
