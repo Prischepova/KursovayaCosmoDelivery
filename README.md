@@ -1,4 +1,4 @@
-![alt text](http://url/to/Logo.png)
+![alt text](https://github.com/Prischepova/KursovayaCosmoDelivery/blob/Images/Logo.png?raw=true)
 # KursovayaCosmoDelivery
 **Prischepova Kseniia**
 ***
